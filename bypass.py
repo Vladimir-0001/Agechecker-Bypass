@@ -52,6 +52,6 @@ def cbdcreate():
 
 
 if __name__ == '__main__':
-    context = ('C:\\Users\\Downloads\\pisdsd\\cert.pem','C:\\Users\\Downloads\\pisdsd\\key.pem')
+    context = ('cert.pem','key.pem')
     app.run(port = 443, debug = False, ssl_context = context)
     
