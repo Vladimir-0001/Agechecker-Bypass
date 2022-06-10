@@ -32,7 +32,7 @@
 ✔ Uses unique uuid each time\
 ✔ No programming required\
 ✔ Easy to set up \
-✔ No sketchy chrome extentions\
+✔ No sketchy chrome extentions
 
 
 
@@ -49,7 +49,7 @@ You'll need [mkCert](https://github.com/FiloSottile/mkcert) to start off!
 $ mkcert -install
 
 ```
-> **Warning**: the `rootCA-key.pem` file that mkcert automatically generates gives complete power to intercept secure requests from your machine. Do not share it.
+> **Warning**: The `rootCA-key.pem` file that mkcert automatically generates gives complete power to intercept secure requests from your machine. Do not share it.
 ## 2.  generate the certificate and key 
 
 ```bash
@@ -62,19 +62,16 @@ Created a new certificate valid for the following names
  - "localhost"
  - "127.0.0.1"
 ```
-if this isnt working try to reinstall the local CA
+If this isnt working try to reinstall the local CA
 
 ## 3. Hijacking the host file 
 
 Linux machines・```\etc\hosts```\
- Windows machines・```C:\Windows\System32\drivers\etc\hosts```
+Windows machines・```C:\Windows\System32\drivers\etc\hosts```
 ```bash 
-#you want to add theese 2 lines in your host file
-
+#you need to add theese 2 lines in your host file
 127.0.0.1 api.agechecker.net
 127.0.0.1 localhost
-
-
 ```
 
 > Don't quite understand how to set it up? (Contact me on discord Vladimir#0001)
@@ -88,7 +85,7 @@ if __name__ == '__main__':
 ```
 > **Warning**: port 443 is a privileged port on linux so you might have to run with `sudo` and `-E` to ignore enviroment varibles a. like this : `sudo -E python bypass.py`
 ## 5 . Using the Bypass
-go to  [api.agechecker.net](https://api.agechecker.net) to make sure the api has been locally hijacked
+Go to  [api.agechecker.net](https://api.agechecker.net) to make sure the api has been locally hijacked
 ```bash
 # You should see something like this
 API Hijacked by bypass.py
@@ -109,7 +106,7 @@ You Can Put in any DOB
 <img src="https://doggo.ninja/TRAHwF.png"></img>
   </kbd>
 </p>
-it will always Verify you
+It will always Verify you
 <p align=""> 
   <kd>
 <img src="https://doggo.ninja/Lnk2PA.png"></img>
