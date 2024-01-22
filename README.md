@@ -35,7 +35,7 @@
 ✔ No sketchy chrome extentions
 
 
-> **Warning**: This Bypass only works for PRE-order verification, meaning if it says it will email you after to verify IT WILL NOT WORK (try to check out without the bypass it will look like ([this](#post-order-verification), dont worry though im wokring on a bypass for post-order verification too ;)
+> **Warning**: This Bypass only works for PRE-order verification, meaning if it says it will email you after to verify IT WILL NOT WORK (try to check out without the bypass it will look like [this](#post-order-verification)), dont worry though im wokring on a bypass for post-order verification too ;)
 
 # Setup The Bypass
 
@@ -114,9 +114,9 @@ It will always Verify you
 </p>
 
 ## Post Order Verification
-- this Wont work currently but I'm working on an update so stay tuned and add my discord for updates!
-![image](https://github.com/Vladimir-0001/Agechecker-Bypass/assets/71991079/7c9330d6-4d42-47c0-b8d0-f4a0ea932197)
 
+![image](https://github.com/Vladimir-0001/Agechecker-Bypass/assets/71991079/7c9330d6-4d42-47c0-b8d0-f4a0ea932197)
+- this Wont work currently but I'm working on an update so stay tuned and add my discord for updates!
 
 ---
 
