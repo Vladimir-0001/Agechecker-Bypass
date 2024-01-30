@@ -77,6 +77,11 @@ Windows machines・```C:\Windows\System32\drivers\etc\hosts```
 > Don't quite understand how to set it up? (Contact me on discord Vladimir#0001)
 
 ## 4 . Getting Bypass.py Started
+- let install some more required stuff first this will let us fake the api, run this in cmd first 
+```bash
+pip install Flask Flask-Cors
+```
+
 At the bottom of `bypass.py`  file Edit the file paths to it match your key and certficate paths
 ```py
 if __name__ == '__main__':
@@ -124,6 +129,7 @@ It will always Verify you
 ## Upcoming/enhancements
 
 - maybe custom popup.js code?
+- Post Order Verificantion (Done! Dm me on discord!)
 
 ## Inspiration/Credits
 
@@ -136,6 +142,10 @@ It will always Verify you
 v0.0.1⋮ 2022-9-6
 + corrected CORS headers errors
 + Added Random UUID 
+
+v0.0.1: 2024-1-30
++ added required pip cmd to install flask and flask-cors
+
 
 
 ```
