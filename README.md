@@ -17,6 +17,7 @@
 <h4 align="center">
   <a href="https://github.com/Vladimir-0001/Agechecker.net-Bypasss#setup-the-bypass">🔞・Setting up the Bypass</a>
   <a href="https://github.com/Vladimir-0001/Agechecker.net-Bypasss#changelog">📜・ChangeLog</a>
+  <a href="https://github.com/Vladimir-0001/Agechecker-Bypass/blob/main/how-it-works.md">🔍・How it works</a>
 </h4>
 
 <h2 align="center">
