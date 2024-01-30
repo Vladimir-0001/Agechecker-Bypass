@@ -79,7 +79,7 @@ Windows machines・```C:\Windows\System32\drivers\etc\hosts```
 ## 4 . Getting Bypass.py Started
 - let install some more required stuff first this will let us fake the api, run this in cmd first 
 ```bash
-pip install Flask Flask-Cors
+$ pip install Flask Flask-Cors
 ```
 
 At the bottom of `bypass.py`  file Edit the file paths to it match your key and certficate paths
@@ -97,6 +97,7 @@ API Hijacked by bypass.py
 ```
 
 
+# Demo
 
 Go to any website using Agechecker.net I will be using the [demo](https://agechecker.net/demo) to showcase the 
 bypass
@@ -133,7 +134,7 @@ It will always Verify you
 
 ## Inspiration/Credits
 
-- [jeff](https://github.com/JeffTheModder) maked me do it 
+- [jeff](https://github.com/JeffTheModder) maked me do it, I miss you man 
 
 
 ## ChangeLog
