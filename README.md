@@ -21,7 +21,7 @@
 </h4>
 
 <h2 align="center">
-  Made by my love of a magical flower
+  
 
 </h2>
 
