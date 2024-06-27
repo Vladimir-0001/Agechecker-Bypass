@@ -18,6 +18,7 @@
   <a href="https://github.com/Vladimir-0001/Agechecker.net-Bypasss#setup-the-bypass">🔞・Setting up the Bypass</a>
   <a href="https://github.com/Vladimir-0001/Agechecker.net-Bypasss#changelog">📜・ChangeLog</a>
   <a href="https://github.com/Vladimir-0001/Agechecker-Bypass/blob/main/how-it-works.md">🔍・How it works</a>
+  <a href="https://discord.gg/H6nzSnPzpG">⛑️・Help Discord</a>
 </h4>
 
 <h2 align="center">
@@ -75,7 +76,7 @@ Windows machines・```C:\Windows\System32\drivers\etc\hosts```
 127.0.0.1 localhost
 ```
 
-> Don't quite understand how to set it up? (Contact me on discord Vladimir#0001)
+> Don't quite understand how to set it up? (Contact me on discord Vladimir#0001) or join our discord [here](https://discord.gg/H6nzSnPzpG)
 
 ## 4 . Getting Bypass.py Started
 - let install some more required stuff first this will let us fake the api, run this in cmd first 
