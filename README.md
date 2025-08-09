@@ -76,7 +76,7 @@ Windows machines・```C:\Windows\System32\drivers\etc\hosts```
 127.0.0.1 localhost
 ```
 
-> Don't quite understand how to set it up? (Contact me on discord Vladimir#0001) or join our discord [here](https://discord.gg/H6nzSnPzpG)
+> Don't quite understand how to set it up? (Contact me on discord Vladimir#0001) or join our discord [here](https://discord.gg/aU3tUbytbS)
 
 ## 4 . Getting Bypass.py Started
 - let install some more required stuff first this will let us fake the api, run this in cmd first 
