@@ -42,7 +42,19 @@
 # Setup The Bypass
 
 You'll need [mkCert](https://github.com/FiloSottile/mkcert) to start off!
+On Windows, you need a package manager like Chocolatey or Scoop
 
+Chocolatey:
+```bash
+$ choco install mkcert -y
+```
+Scoop:
+```bash
+# Add the extras bucket (if you haven't already):
+$ scoop bucket add extras
+
+$ scoop install mkcert
+```
 
 ## 1. From your command line, configure mkcert:
 
@@ -73,6 +85,7 @@ Windows machines・```C:\Windows\System32\drivers\etc\hosts```
 ```bash 
 #you need to add theese 2 lines in your host file
 127.0.0.1 api.agechecker.net
+127.0.0.1 sa.agechecker.net
 127.0.0.1 localhost
 ```
 
