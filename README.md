@@ -18,7 +18,7 @@
   <a href="https://github.com/Vladimir-0001/Agechecker.net-Bypasss#setup-the-bypass">🔞・Setting up the Bypass</a>
   <a href="https://github.com/Vladimir-0001/Agechecker.net-Bypasss#changelog">📜・ChangeLog</a>
   <a href="https://github.com/Vladimir-0001/Agechecker-Bypass/blob/main/how-it-works.md">🔍・How it works</a>
-  <a href="https://discord.gg/H6nzSnPzpG">⛑️・Help Discord</a>
+  <a href="https://github.com/Vladimir-0001/Agechecker-Bypass/issues">⛑️・GitHub Issues</a>
 </h4>
 
 <h2 align="center">
@@ -89,7 +89,7 @@ Windows machines・```C:\Windows\System32\drivers\etc\hosts```
 127.0.0.1 localhost
 ```
 
-> Don't quite understand how to set it up? (Contact me on discord Vladimir#0001) or join our discord [here](https://discord.gg/aU3tUbytbS)
+> Need setup help? Open a reproducible technical support request in [GitHub Issues](https://github.com/Vladimir-0001/Agechecker-Bypass/issues). See [Support](#support) for what to include.
 
 ## 4 . Getting Bypass.py Started
 - let install some more required stuff first this will let us fake the api, run this in cmd first 
@@ -137,15 +137,29 @@ It will always Verify you
 ## Post Order Verification
 
 ![image](https://github.com/Vladimir-0001/Agechecker-Bypass/assets/71991079/7c9330d6-4d42-47c0-b8d0-f4a0ea932197)
-- this Wont work currently but I'm working on an update so stay tuned and add my discord for updates
-- I actually have this bypass done but its untested add me if you want to test it @programminggod on dc 
+- For post-order verification reports and proposed testing, use [GitHub Issues](https://github.com/Vladimir-0001/Agechecker-Bypass/issues). Include the workflow and observed behavior.
 
 ---
 
 ## Upcoming/enhancements
 
 - maybe custom popup.js code?
-- Post Order Verificantion (Done! Dm me on discord!)
+- Post-order verification: track reproducible reports and proposed improvements in [GitHub Issues](https://github.com/Vladimir-0001/Agechecker-Bypass/issues).
+
+## Support
+
+Use [GitHub Issues](https://github.com/Vladimir-0001/Agechecker-Bypass/issues) for reproducible technical support requests. Search existing issues before opening a new one.
+
+Include:
+
+- Your operating system, browser, and relevant software versions.
+- The steps needed to reproduce the problem.
+- What you expected and what actually happened.
+- Relevant error messages or screenshots, with personal information and credentials removed.
+
+## Historical record
+
+See [evidence.md](evidence.md) for the source-linked implementation history, attribution discussion, and limits of the available evidence.
 
 ## Inspiration/Credits
 
